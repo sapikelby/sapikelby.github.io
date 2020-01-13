@@ -4,8 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url:  /About/
-  - title: "Blogs"
-    url: /Blogs/
+  - title: "Resume"
+    url: /Resume/
+  - title: "Blog"
+    url: /Blog/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -13,7 +15,3 @@ main:
   #   url: /collection-archive/
   #- title: "Tags"
   #  url: /tags/
-  - title: "Gallery"
-    url: /gallery/
-  - title: "External Links"
-    url: /links/

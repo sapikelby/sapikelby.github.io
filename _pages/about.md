@@ -12,5 +12,5 @@ A California native, journalist and technical writer living in Minneapolis, Minn
 
 ### Education:
 - **California State University Long Beach** (2010-2014)
-  B.A. Journalism
-  B.A. English with an emphasis in Rhetoric and Composition
+  - B.A. Journalism
+  - B.A. English with an emphasis in Rhetoric and Composition
