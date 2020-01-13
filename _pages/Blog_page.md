@@ -25,8 +25,3 @@ Most of my blogs are technical blogs written mainly for my own reference. I'd be
    {% include archive-single.html %}
   {% endfor %}
 </ul>
-
-## Notebooks:
-- [**Python: assignment, function argument passing, views, and copies**](https://github.com/zengliX/Notebooks/blob/master/python_variable.ipynb)
-
-
