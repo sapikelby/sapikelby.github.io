@@ -4,12 +4,12 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url:  /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Blog"
-    url: /blog/
+#  - title: "Resume"
+#    url: /resume/
+#  - title: "Portfolio"
+#    url: /portfolio/
+#  - title: "Blog"
+#    url: /blog/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

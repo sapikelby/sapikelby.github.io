@@ -7,10 +7,11 @@ author_profile: true
 ---
 
 
-A California native, journalist and technical writer living in Minneapolis, Minn. In my spare time, I enjoy foodie adventures and exploring what the Twin Cities have to offer.
+A California native, and now living in Minnesota working as a Software Engineer for Target writing backend systems. In my spare time, I enjoy playing soccer, hiking and eating my way through the Twin Cities.
 
 
 ### Education:
-- **California State University Long Beach** (2010-2014)
-  - B.A. Journalism
-  - B.A. English with an emphasis in Rhetoric and Composition
+- **California State University Long Beach** (2013-2015)
+  - B.S. Computer Science
+  
+- **Long Beach City College** (2010-2013)
