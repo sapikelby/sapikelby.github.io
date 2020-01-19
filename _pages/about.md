@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-A California native, and now living in Minnesota working as a Software Engineer for Target writing backend systems. In my spare time, I enjoy playing soccer, hiking and eating my way through the Twin Cities.
+A California native, now living in Minnesota working as a Software Engineer for Target writing backend systems. In my spare time, I enjoy playing soccer, hiking and eating my way through the Twin Cities.
 
 
 ### Education:
